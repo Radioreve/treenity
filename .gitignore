@@ -1,0 +1,112 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+**/dist# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+**/dist
+**/tmp
+**/coverage
+**/.nyc_output
+**/pix.log.*
+
+# dependencies
+**/node_modules
+**/bower_components
+
+# misc
+**/.sass-cache
+**/connect.lock
+**/libpeerconnection.log
+**/npm-debug.log
+**/testem.log
+**/out.log
+**/api/.env
+**/*.log
+**/*.log.*
+
+# IDE
+**/.idea
+*.iml
+
+# SQLite3 local dev file
+*.sqlite3
+
+# system
+.DS_Store
+
+**/.env
+
+# CircleCI
+*.circle-cache-key
+
+# ember-try
+**/.node_modules.ember-try/
+**/bower.json.ember-try
+**/package.json.ember-try
+
+.vscode/launch.json
+api/.vscode/*
+api/.vscode
+api/.nvmrc
+.nvmrc
+.vscode/*
+.history
+
+# ember-try
+.node_modules.ember-try/
+bower.json.ember-try
+package.json.ember-try
+
+**/tmp
+**/coverage
+**/.nyc_output
+**/pix.log.*
+
+# dependencies
+**/node_modules
+**/bower_components
+
+# misc
+**/.sass-cache
+**/connect.lock
+**/libpeerconnection.log
+**/npm-debug.log
+**/testem.log
+**/out.log
+**/api/.env
+**/*.log
+**/*.log.*
+
+# IDE
+**/.idea
+*.iml
+
+# SQLite3 local dev file
+*.sqlite3
+
+# system
+.DS_Store
+
+**/.env
+
+# CircleCI
+*.circle-cache-key
+
+# ember-try
+**/.node_modules.ember-try/
+**/bower.json.ember-try
+**/package.json.ember-try
+
+.vscode/launch.json
+api/.vscode/*
+api/.vscode
+api/.nvmrc
+.nvmrc
+.vscode/*
+.history
+
+# ember-try
+.node_modules.ember-try/
+bower.json.ember-try
+package.json.ember-try
